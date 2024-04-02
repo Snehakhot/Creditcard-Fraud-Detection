@@ -1,4 +1,4 @@
-# credit-card-fraud-detection
+
 # Credit Card Fraud Detection Model
 
 ## Purpose
@@ -25,7 +25,7 @@ To run the project, follow these steps:
 - `credit_card_fraud_detection_model.pkl`: Saved trained model.
 
 ## Contact Information
-For any questions or issues, please contact [Your Name] at [Your Email].
+For any questions or issues, please contact [Sneha Patil] at [sneha.khot1995@gmail.com].
 
 ---
 Feel free to reach out if you have any questions or need further assistance!
