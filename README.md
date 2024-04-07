@@ -20,7 +20,7 @@ To run the project, follow these steps:
 3. **Run the Script**: Execute the provided Python script 'CreditCardFraudDetection.ipynb' to train and evaluate the model.
 
 ## Project Structure
-- `credit_card_fraud_detection.py`: Main Python script for model building and evaluation.
+- `CreditCardFraudDetection.ipynb`: Main Python script for model building and evaluation.
 - `creditcard.csv`: Dataset containing credit card transactions.
 - `credit_card_fraud_detection_model.pkl`: Saved trained model.
 
