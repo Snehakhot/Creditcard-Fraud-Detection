@@ -48,8 +48,8 @@ The Python code performs the following tasks:
     ```
 2. Clone the repository and navigate to the project directory.
 3. Ensure the `creditcard.csv` dataset is placed in the same directory.
-4. Run the Python script (`credit_card_fraud_detection.py`).
-5. The output will include cross-validation scores, model evaluation metrics, and additional visualizations.
+4. Run the Python script (`credit_card_fraud_detection.ipynb`).
+6. The output will include cross-validation scores, model evaluation metrics, and additional visualizations.
 
 ### Reproducing Results
 You can reproduce the results by following the instructions provided above and referring to the specific output metrics mentioned in the code explanations.
